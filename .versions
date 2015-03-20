@@ -1,0 +1,8 @@
+3stack:preferences-local-storage@1.0.0
+base64@1.0.3
+check@1.0.5
+ejson@1.0.6
+json@1.0.3
+logging@1.0.7
+meteor@1.1.5
+underscore@1.0.3
